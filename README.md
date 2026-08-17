@@ -9,8 +9,8 @@ A Laravel package providing authentication and login flows.
 
 ## Requirements
 
-- PHP ^8.1
-- Laravel ^10.0 | ^11.0 | ^12.0
+- PHP ^8.3
+- Laravel ^13.0
 
 ## Installation
 

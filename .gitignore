@@ -3,6 +3,19 @@ node_modules/
 npm-debug.log
 yarn-error.log
 
+# Composer
+composer.lock
+.phpunit.cache/
+.phpunit.result.cache
+.build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
 # Laravel 4 specific
 bootstrap/compiled.php
 app/storage/
@@ -20,7 +33,6 @@ storage/*.key
 Homestead.yaml
 Homestead.json
 /.vagrant
-.phpunit.result.cache
 
 /public/build
 /storage/pail
